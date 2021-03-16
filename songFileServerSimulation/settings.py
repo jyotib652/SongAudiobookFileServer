@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'fileddotcomdb',
-        'USER': 'jyoti',
-        'PASSWORD': 'Kolkata1@@'
+        'USER': 'djangoUser1',
+        'PASSWORD': 'django@Pass1'
     }
 }
 
